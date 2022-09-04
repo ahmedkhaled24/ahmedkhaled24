@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **some android projects.**
 
-- 👨‍💻 Most of the projects I worked on are available on [the Play store](the Play store)
+- 👨‍💻 Most of the projects I worked on are available on [[the Play store](https://drive.google.com/file/d/1B_RSj81cI0dQlv9bUuGiUOpboaVZNYdi/view?usp=sharing)](the Play store)
 
 - 💬 Ask me about **Android development.**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/ahmed-khaled-8930011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ahmed-khaled-8930011ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/ahmed-khaled-8930011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khaled-8930011ba/" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedkhaledhamtary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedkhaledhamtary" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
 </p>
