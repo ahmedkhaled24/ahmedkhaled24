@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **some android projects.**
 
-- 👨‍💻 Most of the projects I worked on are available on [[the Play store](https://drive.google.com/file/d/1B_RSj81cI0dQlv9bUuGiUOpboaVZNYdi/view?usp=sharing)](the Play store)
-
 - 💬 Ask me about **Android development.**
 
 - 📫 How to reach me **hamtary98@gmail.com, +201120705039.**
