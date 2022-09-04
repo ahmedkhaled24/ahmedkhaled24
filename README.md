@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/ahmed-khaled-8930011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khaled-8930011ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-khaled-8930011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khaled-8930011ba/" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedkhaledhamtary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedkhaledhamtary" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
 </p>
