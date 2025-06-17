@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working **as an Android developer.**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👯 I’m looking to collaborate on **some android projects.**
 
 - 💬 Ask me about **Android development.**
 
-- 📫 How to reach me **hamtary98@gmail.com, +20 1120705039 | +20 1004116548 .**
+- 📫 How to reach me **ahmed.khaled.developer@gmail.com, +20 1120705039 | +20 1004116548 .**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N2kF5k3Xzj0DpqX8Y1SnZQQTCARR2aUV/view](https://drive.google.com/file/d/1N2kF5k3Xzj0DpqX8Y1SnZQQTCARR2aUV/view)
 
