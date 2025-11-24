@@ -1,25 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">A passionate Android Developer from Egypt</h3>
+# 👋 Hi, I'm Ahmed Khaled  
+### Senior Android Engineer | Kotlin • Jetpack Compose • Clean Architecture  
+### Building secure, high-performance apps for government, fintech, and commercial sectors
 
-- 🔭 I’m currently working **as an Android developer.**
+I’m an Android Engineer with 4+ years of experience developing modern, secure, and scalable mobile applications.  
+I specialize in **Kotlin**, **Jetpack Compose**, **Hilt**, **Coroutines**, and **Clean Architecture**, and I focus on building solutions that are fast, reliable, and easy to maintain.
 
-- 🌱 I’m currently learning **Flutter.**
+---
 
-- 👯 I’m looking to collaborate on **some android projects.**
+## 🚀 About Me
 
-- 💬 Ask me about **Android development.**
+I’ve contributed to several high-impact national and international projects, including:
 
-- 📫 How to reach me **ahmed.khaled.developer@gmail.com, +20 1120705039 | +20 1004116548 .**
+- 🇪🇬 **Egypt’s National Digital ID App** (current)  
+- ✈️ **Enrollment Verification System (EVS)** for **NEOM Airport – KSA** and **Pakistan**  
+- 🏦 Mobile solutions for the **Central Bank of Egypt**  
+- 🛒 **E-commerce**, 🏥 **clinic apps**, and various production apps on the Play Store  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N2kF5k3Xzj0DpqX8Y1SnZQQTCARR2aUV/view](https://drive.google.com/file/d/1N2kF5k3Xzj0DpqX8Y1SnZQQTCARR2aUV/view)
+My work involves:
+- Biometric verification (face detection, ID validation)  
+- Secure API communication & encrypted data flows  
+- Offline-first design using DataStore & Room  
+- Modular, scalable app architecture  
+- Performance optimization for real-world users
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-khaled-8930011ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khaled-8930011ba/" height="30" width="40" /></a>
-<a href="https://fb.com/ahmedkhaledhamtary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedkhaledhamtary" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmedkhaled_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedkhaled_44" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+### **Android**
+- Kotlin, Jetpack Compose, Coroutines  
+- Clean Architecture, MVVM, Modularization  
+- Hilt / Dagger, Room, DataStore  
+- Retrofit, OkHttp  
+- ML Kit (Barcode & Face Detection)
+
+### **Additional Skills**
+- iOS basics (Swift + UIKit fundamentals)  
+- Backend fundamentals (Python + .NET)  
+- QA Automation (API testing, Postman, JMeter, CI/CD basics)  
+- Agile/Scrum workflow  
+
+---
+
+## 🌍 Relocating to the UAE
+I will be relocating to the **UAE** soon and I’m open to **Senior Android / Mobile Engineer** roles.  
+I handle my own travel and relocation, and I’m ready to join immediately upon arrival.
+
+---
+
+## 📬 Contact Me
+- **Email:** ahmed.khaled.developer@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/ahmedkhaled  
+- **Resume:** [Download PDF](AhmedKhaled_AndroidDeveloper_CV.pdf)  
+- **GitHub:** your-github-link-here  
+- **Play Store Apps:** add your links here  
+
+---
+
+If you’re interested in collaborating or hiring, I’d be happy to connect!
