@@ -50,7 +50,7 @@ I will be relocating to the **UAE** soon and I’m open to **Senior Android / Mo
 ## 📬 Contact Me
 - **Email:** ahmed.khaled.developer@gmail.com
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/ahmedkhaled44) 
-- **Resume:** [Download PDF]([/mnt/data/AhmedKhaled_AndroidDeveloper_CV.pdf](https://drive.google.com/file/d/16gvehTlmkfPUOsPWmlwUyx29UYxcbejP/view))  
+- **Resume:** [Download PDF](https://drive.google.com/file/d/16gvehTlmkfPUOsPWmlwUyx29UYxcbejP/view)  
 - **GitHub:** [GitHub](https://github.com/ahmedkhaled24/) 
 - **Play Store Apps:** 
 
